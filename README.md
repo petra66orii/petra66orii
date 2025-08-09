@@ -5,7 +5,12 @@ I'm a **Fullstack Software Developer** passionate about building robust, beautif
 ## 🚀 My Favorite Projects
 - [Honeypot](https://github.com/petra66orii/honeypot) — a project I’m proud of!
 - [Astrology App](https://github.com/petra66orii/astrology-app)
+- [Timeless Travel](https://github.com/petra66orii/timeless-travel)
+
+## Currently Working On:
+
 - [QR Generator](https://github.com/petra66orii/qr-generator)
+- [Daily Stock Trading AI Agent](https://github.com/petra66orii/dst-agent)
 
 ## 🛠️ Tech Stack & Skills
 
@@ -36,7 +41,7 @@ I'm a **Fullstack Software Developer** passionate about building robust, beautif
 - On a mission for world peace ☮️
 
 ## 📬 Contact
-Feel free to reach out via **email**!
+Feel free to reach out via **email**: petra66orii@gmail.com!
 
 ---
 
