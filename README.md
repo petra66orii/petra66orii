@@ -11,6 +11,8 @@ I'm a **Fullstack Software Developer** passionate about building robust, beautif
 
 - [QR Generator](https://github.com/petra66orii/qr-generator)
 - [Daily Stock Trading AI Agent](https://github.com/petra66orii/dst-agent)
+- [OpenEire Studios - Drone Videography](https://github.com/petra66orii/openeire)
+- [CMD Artistry - Mural Painter](https://github.com/petra66orii/cmd-artistry)
 
 ## 🛠️ Tech Stack & Skills
 
