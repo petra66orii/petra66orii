@@ -43,7 +43,7 @@ I'm a **Fullstack Software Developer** passionate about building robust, beautif
 - On a mission for world peace ☮️
 
 ## 📬 Contact
-Feel free to reach out via **email**: petra66orii@gmail.com!
+Feel free to reach out via **email**: developer@missbott.online!
 
 ---
 
