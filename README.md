@@ -1,4 +1,4 @@
-# Hi there, I'm Petra 👋
+# Hi there, I'm Miss Bott 👋
 
 I'm a **Fullstack Software Developer** passionate about building robust, beautiful web experiences. I love working with modern frameworks—especially Django, React, Python, Typescript, and Tailwind CSS.
 
