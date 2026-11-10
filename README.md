@@ -4,14 +4,13 @@ I'm a **Fullstack Software Developer** passionate about building robust, beautif
 
 ## 🚀 My Favorite Projects
 - [Honeypot](https://github.com/petra66orii/honeypot) — a project I’m proud of!
-- [Astrology App](https://github.com/petra66orii/astrology-app)
 - [Timeless Travel](https://github.com/petra66orii/timeless-travel)
+- [OpenEire Studios - Drone Videography](https://github.com/petra66orii/openeire)
 
 ## Currently Working On:
 
 - [QR Generator](https://github.com/petra66orii/qr-generator)
 - [Daily Stock Trading AI Agent](https://github.com/petra66orii/dst-agent)
-- [OpenEire Studios - Drone Videography](https://github.com/petra66orii/openeire)
 - [CMD Artistry - Mural Painter](https://github.com/petra66orii/cmd-artistry)
 
 ## 🛠️ Tech Stack & Skills
